@@ -1,0 +1,21 @@
+.card {
+    margin:0;
+    padding: 20px;
+    border: 0;
+    border: 1px black solid;
+    width: fit-content;
+    border-radius: 10px;
+    margin: 40px;
+    background-color: lightgray;
+    box-shadow: 2px 2px 2px 2px gray;
+}
+img {
+    height: 305px;
+    width: 220px;
+}
+.card--container {
+    font-size: 16px;
+}
+h2 {
+    margin: 0;
+}
